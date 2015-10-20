@@ -1,0 +1,22 @@
+{
+  "name": "moccasin",
+  "version": "1.0.0",
+  "description": "a utility to escape HTML ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orbitalmedia/moccasin.git"
+  },
+  "keywords": [
+    "escape"
+  ],
+  "author": "Mike Wheelaghan <admin@orbitalmedia.com.au> (http://rapidtorch.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orbitalmedia/moccasin/issues"
+  },
+  "homepage": "https://github.com/orbitalmedia/moccasin#readme"
+}
